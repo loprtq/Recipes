@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Kimchi Jjigae (Kimchi Stew)
+categories: [Korean, Stew, Spicy, Medium]
+course: Main Course
+cuisine: Korean
+keyword: kimchi, pork, spicy, stew
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 10
+        unit: minutes
+  - group: Cook
+    list:
+      - value: 30
+        unit: minutes
+  - group: Total
+    list:
+      - value: 40
+        unit: minutes
+servings:
+  - value: 2
+    unit: bowls
+summary: "A deeply flavorful, spicy Korean staple made with aged kimchi, fatty pork, and silky tofu. Perfect for cold evenings."
+ingredients:
+  - group: Base
+    list:
+      - amount: 1
+        unit: cup
+        name: aged Kimchi
+        notes: "(The sourer, the better)"
+      - amount: 150
+        unit: g
+        name: pork belly
+        notes: "(Or shoulder, thinly sliced)"
+      - amount: ½
+        unit: block
+        name: firm tofu
+        notes: "(Sliced into 1cm rectangles)"
+  - group: Aromatics & Veggies
+    list:
+      - amount: 1
+        unit: small
+        name: onion
+        notes: "(Sliced)"
+      - amount: 2
+        unit: stalks
+        name: green onions
+      - amount: 1
+        unit: tsp
+        name: minced garlic
+  - group: Stew Base (The Sauce)
+    list:
+      - amount: 1
+        unit: tbsp
+        name: Gochugaru
+        notes: "(Korean chili flakes)"
+      - amount: 1
+        unit: tsp
+        name: Soy sauce
+      - amount: 1
+        unit: tsp
+        name: Sugar
+      - amount: 2
+        unit: cups
+        name: Water
+        notes: "(Or anchovy kelp broth)"
+instructions:
+  - list:
+    - "."
+    - "."
+    - "."
+    - "."
+    - "."
+---

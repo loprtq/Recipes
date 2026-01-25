@@ -1,0 +1,52 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Kanel stænger
+categories: [Kage, Kanel]
+course: Dessert
+cuisine: Bagning
+keyword: kanel, kage
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 10
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 15
+        unit: minutter
+servings:
+  - value: 1
+    unit: Kage
+  
+summary: "."
+ingredients:
+  - list:
+    - amount: 250
+      unit: g
+      name: Mel
+    - amount: 250
+      unit: g
+      name: Sukker
+    - amount: 1
+      unit: "?"
+      name: Kanel
+    - amount: 2
+      unit: stk
+      name: Æg
+    - amount: 1
+      unit: tsk
+      name: "?"
+
+instructions:
+  - list:
+    - "Ingredienserne blandes sammen og æltes godt."
+    - "Dejen rulles ud i stænger"
+    - "Bages ved 200 grader i ca. 10-15 minutter."
+    - "Skæres ud og når kolde puttes glasur på"
+---

@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Banan- og limekage
+categories: [Citrus, Kanel]
+course: Dessert
+cuisine: Bagning
+keyword: Citrus, kage
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 45
+        unit: minutter
+servings:
+  - value: 1
+    unit: Kage
+  
+summary: "."
+ingredients:
+  - group: Kage
+    list:
+    - amount: 200
+      unit: g
+      name: Sukker
+    - amount: 200
+      unit: g
+      name: Smør
+    - amount: 3
+      unit: stk
+      name: Æg
+    - amount: 200
+      unit: g
+      name: Mel
+    - amount: 2
+      unit: tsk
+      name: Bagepulver
+    - amount: 1
+      unit: spsk
+      name: Vaniljesukker
+    - amount: 2
+      unit: stk
+      name: Lime
+    - amount: 2
+      unit: stk
+      name: Modne bananer
+  - group: Glasur
+    list:
+    - amount: 100
+      unit: g
+      name: Flormelis
+
+instructions:
+  - list:
+    - "Tænd ovnen på 175 grader"
+    - "Pisk sukker og smør sammen. Sørg for at smøret er blevet blødgjort"
+    - "Pisk æggene i 1 ad gangen"
+    - "Bland mel, bagepulver og vaniljesukker, og vend det i dejen"
+    - "Riv limeskallen, og pres saften"
+    - "Mos bananerne"
+    - "Rør bananer og halvdelen af limeskallen og -saften i dejen"
+    - "Hæld dejen i en aflang, smurt form, og bag den i ca. 45 minutter"
+    - "Afkøl kagen i formen på en rist"
+    - "Rør flormelis og resten af limesaften sammen, og fordel det og resten af limeskallen over den afkølede kage"
+---

@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Citruskage
+categories: [Citrus, Kage]
+course: Dessert
+cuisine: Bagning
+keyword: Citrus, Kage
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 30
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 60
+        unit: minutter
+servings:
+  - value: 1
+    unit: Kage
+
+summary: "."
+ingredients:
+  - group: Kage
+    list:
+      - amount: 1
+        unit: stk
+        name: Lime
+      - amount: 1
+        unit: stk
+        name: Appelsin
+      - amount: 1
+        unit: stk
+        name: Citron
+      - amount: 75
+        unit: g
+        name: Mandler
+      - amount: 4
+        name: Æggehvider
+      - amount: 250
+        unit: g
+        name: Sukker
+      - amount: 75
+        unit: g
+        name: Kokos
+      - amount: 250
+        unit: g
+        name: Smør
+      - amount: 4
+        name: Æggeblommer
+      - amount: 125
+        unit: g
+        name: Hvedemel
+      - amount: 25
+        unit: g
+        name: Kartoffelmel
+      - amount: 1
+        unit: tsk
+        name: Bagepulver
+
+  - group: Glasur
+    list:
+      - amount: 250
+        unit: g
+        name: Flormelis
+      - amount: 1
+        unit: stk
+        name: Citroner
+        note: (saften)
+      
+instructions:
+  - list:
+    - "Riv skallen af alle citrusfrugterne, og pres saften fra. Bledn mandlerne helt fint. Pisk æggehviderne næsten stive, tilsæt 1/3 af sukkeret, og pisk dem helt stive. Vend kokosmel, citrusskal og mandler i hviderne"
+    - "Rør smørret helt lyst med resten af sukkeret, tilsæt æggeblommer, og rør godt igennem. Sift de to slags mel og bagepulver sammen, og rør det i dejen."
+    - "Vend hviderne i med store luftige tag. Fordel dejen i den velsmurte, sukkerdryssede springsform. Bag kagen i en forvarmet ovn ved 180 grader i ca. 40 minutter på midterste rille, til den er fint gylden og gennembage. Prøv med en nål."
+    - "Løsn den varme kage fra formen. Stil den på en rist over en bradepande, og dryp citrussaften over den varme kage lidt efter lidt. Saml overskydende saft op, og dryp, til kagen har suget al saften."
+    - "Afkøl kagen helt. Rør flormelis og lidt citronsaft til en lind glasur, og overtræk kagen."
+---
