@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Hindbær-citronmuffins
+categories: [Kage, Muffins, Citrus]
+course: Dessert
+cuisine: Dansk
+keyword: hindbær, citron, muffins
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 30
+        unit: minutter
+servings:
+  - value: 28
+    unit: muffins
+summary: Friske muffins med hindbær, citron og et strejf af timian.
+ingredients:
+  - list:
+      - amount: 2
+        unit: stk
+        name: Æg
+      - amount: 2
+        unit: dl
+        name: Mælk
+      - amount: 3
+        unit: dl
+        name: Mel
+      - amount: 2
+        unit: tsk
+        name: Bagepulver
+      - amount: ½
+        unit: tsk
+        name: Salt
+      - amount: 2
+        unit: tsk
+        name: Timian
+      - amount: 1¼
+        unit: dl
+        name: Sukker
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (revet skal)
+      - amount: 185
+        unit: g
+        name: Smeltet smør
+      - amount: 28
+        unit: stk
+        name: Hindbær
+instructions:
+  - list:
+      - Pisk æggene med sukker. Bland mælk, mel, bagepulver, salt og timian i.
+      - Rør citronskal og smeltet smør i, og vend hindbærrene forsigtigt i.
+      - Fordel dejen i muffinsforme.
+      - Bag ved 180 °C i 25-30 minutter.
+---

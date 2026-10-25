@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Kanelkage med kærnemælk
+categories: [Kage, Kanel]
+course: Dessert
+cuisine: Dansk
+keyword: kanel, kærnemælk, glasur
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 35
+        unit: minutter
+servings:
+  - value: 1
+    unit: bradepandekage
+summary: Stor, krydret kanelkage med kakaoglasur.
+ingredients:
+  - group: Kage
+    list:
+      - amount: 500
+        unit: g
+        name: Sukker
+      - amount: 600
+        unit: g
+        name: Mel
+      - amount: 3
+        unit: spsk
+        name: Kanel
+      - amount: 3
+        unit: tsk
+        name: Natron
+      - amount: 7½
+        unit: dl
+        name: Kærnemælk
+      - amount: 175
+        unit: g
+        name: Smeltet smør
+  - group: Glasur
+    list:
+      - amount: 175
+        unit: g
+        name: Smør
+      - amount: 350
+        unit: g
+        name: Flormelis
+      - amount: 3
+        unit: spsk
+        name: Kakao
+      - amount: 1
+        unit: stk
+        name: Æg
+instructions:
+  - list:
+      - Bland sukker, mel, kanel og natron. Rør kærnemælken og det smeltede smør i.
+      - Hæld dejen i en bradepande på cirka 30 x 40 cm.
+      - Bag ved 200 °C i cirka 35 minutter, og lad kagen køle af.
+      - Rør smør, flormelis og kakao sammen. Pisk ægget i, og fordel glasuren på den afkølede kage.
+---

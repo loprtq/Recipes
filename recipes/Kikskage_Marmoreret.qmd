@@ -1,0 +1,57 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Kikskage med chokolade
+categories: [Kage, Chokolade]
+course: Dessert
+cuisine: Dansk
+keyword: kikskage, chokolade, mandarin
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 30
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 0
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Køleskabskage med chokolade, mandler, Grand Marnier og kiks.
+ingredients:
+  - list:
+      - amount: 400
+        unit: g
+        name: Mørk chokolade
+      - amount: 150
+        unit: g
+        name: Smør
+      - amount: 100
+        unit: g
+        name: Mandler
+        notes: (hakkede)
+      - amount: 5
+        unit: spsk
+        name: Piskefløde
+      - amount: 3
+        unit: spsk
+        name: Flormelis
+      - amount: 4
+        unit: spsk
+        name: Grand Marnier
+      - amount: 25
+        unit: stk
+        name: Små kiks
+instructions:
+  - list:
+      - Smelt chokoladen sammen med smørret ved svag varme.
+      - Rør mandler, fløde, flormelis og Grand Marnier i.
+      - Læg kiks og chokoladeblanding lagvist i en form.
+      - Stil kagen på køl, til den er fast. Skær den i skiver, og servér eventuelt med friske bær.
+---

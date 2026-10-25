@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Roulade med abrikos og marcipan
+categories: [Kage, Roulade]
+course: Dessert
+cuisine: Dansk
+keyword: roulade, abrikos, marcipan
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 25
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 10
+        unit: minutter
+servings:
+  - value: 1
+    unit: roulade
+summary: Let roulade fyldt med smørcreme og abrikoser, rullet ind i marcipan.
+ingredients:
+  - group: Rouladebund
+    list:
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 90
+        unit: g
+        name: Sukker
+      - amount: 45
+        unit: g
+        name: Mel
+      - amount: 45
+        unit: g
+        name: Kartoffelmel
+      - amount: ½
+        unit: tsk
+        name: Bagepulver
+  - group: Smørcreme
+    list:
+      - amount: 150
+        unit: g
+        name: Smør
+      - amount: 250
+        unit: g
+        name: Flormelis
+      - amount: 2
+        unit: spsk
+        name: Vand
+      - amount: 1
+        unit: tsk
+        name: Vaniljesukker
+      - amount: 1
+        unit: håndfuld
+        name: Abrikoser
+        notes: (friske eller tørrede, finthakkede)
+  - group: Overtræk
+    list:
+      - amount: 1
+        unit: portion
+        name: Marcipan
+instructions:
+  - list:
+      - Pisk æg og sukker, til massen er lys og luftig. Sigt mel, kartoffelmel og bagepulver i, og vend det forsigtigt sammen.
+      - Smør dejen ud på bagepapir i et rektangel, og bag ved 180 °C i 7-10 minutter, til bunden er let gylden. Vend den ud på et rent stykke bagepapir, og rul den sammen, mens den er lun.
+      - Rør smør, flormelis, vand og vaniljesukker til en blød creme. Vend de hakkede abrikoser i.
+      - Rul bunden forsigtigt ud, smør cremen på, og rul den sammen igen.
+      - Rul marcipanen ud, læg den om rouladen, og pynt eventuelt med smeltet chokolade.
+---

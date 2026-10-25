@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Rabarberkage (Velke)
+categories: [Kage, Rabarber]
+course: Dessert
+cuisine: Dansk
+keyword: rabarber, kage, marengs
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 10
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: En enkel rabarberkage med sprød marengs på toppen.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 125
+        unit: g
+        name: Smør
+      - amount: 170
+        unit: g
+        name: Sukker
+      - amount: 2
+        unit: stk
+        name: Æg
+      - amount: 250
+        unit: g
+        name: Mel
+      - amount: 2
+        unit: tsk
+        name: Bagepulver
+      - amount: 2
+        unit: spsk
+        name: Kærnemælk
+      - amount: 2-4
+        unit: dl
+        name: Rabarber
+        notes: (skåret i små stykker)
+  - group: Marengs
+    list:
+      - amount: 1
+        unit: stk
+        name: Æggehvide
+      - amount: ½
+        unit: tsk
+        name: Kanel
+instructions:
+  - list:
+      - Rør smør og sukker lyst. Tilsæt æggene et ad gangen.
+      - Bland mel og bagepulver, og rør det i dejen sammen med kærnemælken.
+      - Fordel dejen i en smurt springform, og læg rabarberstykkerne ovenpå.
+      - Pisk æggehviden stiv, og vend kanel i. Fordel marengsen over rabarberne.
+      - Bag ved 200 °C i cirka 10 minutter, til marengsen er gylden.
+---

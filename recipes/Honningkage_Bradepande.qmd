@@ -1,0 +1,57 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Honningkage til bradepande
+categories: [Kage, Honning]
+course: Dessert
+cuisine: Dansk
+keyword: honning, appelsin, chokolade
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 30
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 35
+        unit: minutter
+servings:
+  - value: 1
+    unit: bradepandekage
+summary: Stor honningkage med appelsinskal og chokolade.
+ingredients:
+  - list:
+      - amount: 500
+        unit: g
+        name: Honning
+      - amount: 150
+        unit: g
+        name: Smør
+      - amount: 200
+        unit: g
+        name: Sukker
+      - amount: 2
+        unit: stk
+        name: Appelsiner
+        notes: (revet skal)
+      - amount: 1
+        unit: stk
+        name: Æg
+      - amount: ½
+        unit: tsk
+        name: Natron
+      - amount: 1
+        unit: portion
+        name: Rosiner
+instructions:
+  - list:
+      - Varm honning, smør og sukker forsigtigt sammen, til det er smeltet. Lad blandingen køle lidt af.
+      - Rør appelsinskal og æg i. Bland natron med mel, og vend det i sammen med rosinerne.
+      - Fordel dejen i en smurt bradepande.
+      - Bag ved 150 °C i cirka 35 minutter, til kagen er gennembagt.
+---

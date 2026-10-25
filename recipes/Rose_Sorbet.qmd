@@ -1,0 +1,55 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Rosesorbet
+categories: [Dessert, Sorbet]
+course: Dessert
+cuisine: Dansk
+keyword: sorbet, roser, sommer
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 30
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 5
+        unit: minutter
+  - group: Total
+    list:
+      - value: 4
+        unit: timer
+servings:
+  - value: 6
+    unit: portioner
+summary: Let sorbet med duftende rosenblade.
+ingredients:
+  - list:
+      - amount: 6
+        unit: dl
+        name: Vand
+      - amount: 225
+        unit: g
+        name: Sukker
+      - amount: ½
+        unit: tsk
+        name: Vaniljesukker
+      - amount: 2
+        unit: håndfulde
+        name: Usprøjtede rosenblade
+      - amount: 2
+        unit: spsk
+        name: Pasteuriserede æggehvider
+instructions:
+  - list:
+      - Kog vand, sukker og vaniljesukker op, til sukkeret er opløst.
+      - Tag gryden af varmen, og lad rosenbladene trække i siruppen. Si bladene fra, og køl siruppen helt af.
+      - Frys siruppen i en egnet beholder. Rør i den under indfrysningen, eller kør den på en ismaskine.
+      - Pisk æggehviderne let og vend dem i sorbeten, når den begynder at sætte sig.
+      - Frys videre, til sorbeten er fast.
+---

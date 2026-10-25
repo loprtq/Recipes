@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Hindbærcupcakes med hvid chokolade
+categories: [Kage, Muffins, Hindbær]
+course: Dessert
+cuisine: Dansk
+keyword: hindbær, cupcakes, hvid chokolade
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 12
+    unit: cupcakes
+summary: Små hindbærkager med hvid chokolade og hindbærcreme.
+ingredients:
+  - group: Kager
+    list:
+      - amount: 150
+        unit: g
+        name: Sukker
+      - amount: 2
+        unit: stk
+        name: Æg
+      - amount: 125
+        unit: g
+        name: Blødt smør
+      - amount: 125
+        unit: g
+        name: Mel
+      - amount: 3
+        unit: spsk
+        name: Hakkede mandler
+      - amount: 1
+        unit: tsk
+        name: Bagepulver
+      - amount: 50
+        unit: g
+        name: Hvid chokolade
+        notes: (hakket)
+      - amount: 100
+        unit: g
+        name: Hindbær
+  - group: Creme
+    list:
+      - amount: 75
+        unit: g
+        name: Hindbær
+      - amount: 150
+        unit: g
+        name: Smør
+      - amount: 300
+        unit: g
+        name: Flormelis
+instructions:
+  - list:
+      - Pisk sukker og æg sammen. Rør smørret i, og vend mel, mandler og bagepulver i.
+      - Vend hakket hvid chokolade og hindbær forsigtigt i dejen.
+      - Fordel dejen i muffinsforme, og bag ved 175 °C i cirka 25 minutter. Afkøl helt.
+      - Kog 75 g hindbær kort med lidt vand, og mos dem. Pisk smør og flormelis cremet, og rør hindbærmosen i.
+      - Fordel cremen på de afkølede kager.
+---

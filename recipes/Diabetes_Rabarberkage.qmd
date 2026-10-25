@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Diabetesvenlig rabarberkage
+categories: [Kage, Rabarber]
+course: Dessert
+cuisine: Dansk
+keyword: rabarber, diabetesvenlig, mandelmel
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 30
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: En mindre sødet rabarberkage med mandelmel og skummetmælk.
+ingredients:
+  - list:
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 1
+        unit: spsk
+        name: Sødemiddel
+      - amount: ½
+        unit: dl
+        name: Olie
+      - amount: 150
+        unit: g
+        name: Mel
+      - amount: 50
+        unit: g
+        name: Mandelmel
+      - amount: 20
+        unit: g
+        name: Sødemiddel
+      - amount: 1½
+        unit: tsk
+        name: Bagepulver
+      - amount: 1
+        unit: dl
+        name: Skummetmælk
+      - amount: 300
+        unit: g
+        name: Rabarber
+        notes: (i små stykker)
+  - group: Pynt
+    list:
+      - amount: ½
+        unit: tsk
+        name: Sødemiddel
+      - amount: ½
+        unit: tsk
+        name: Kanel
+      - amount: 1
+        unit: portion
+        name: Hakkede mandler eller mandelflager
+instructions:
+  - list:
+      - Pisk æg og sødemiddel sammen, og rør olie i.
+      - Bland mel, mandelmel, sødemiddel og bagepulver. Rør det i dejen sammen med mælken.
+      - Vend rabarberstykkerne i dejen, og hæld den i en springform.
+      - Drys med sødemiddel, kanel og mandler.
+      - Bag ved 200 °C i cirka 25-30 minutter.
+---

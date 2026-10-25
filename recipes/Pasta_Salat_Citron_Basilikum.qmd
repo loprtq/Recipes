@@ -1,0 +1,65 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Pastasalat med citron og basilikum
+categories: [Salat, Pasta]
+course: Tilbehør
+cuisine: Italiensk
+keyword: pasta, citron, basilikum
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 10
+        unit: minutter
+servings:
+  - value: 6
+    unit: portioner
+summary: Kold pastasalat med tomat, peberfrugt og citron-basilikumdressing.
+ingredients:
+  - list:
+      - amount: 500
+        unit: g
+        name: Penne
+      - amount: 2
+        unit: stk
+        name: Tomater
+        notes: (i tern)
+      - amount: 1
+        unit: stk
+        name: Rød peberfrugt
+        notes: (i tern)
+      - amount: 2-3
+        unit: fed
+        name: Hvidløg
+      - amount: 1
+        unit: dl
+        name: Olivenolie
+      - amount: 2-3
+        unit: spsk
+        name: Hvidvinseddike
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (saft)
+      - amount: 1
+        unit: portion
+        name: Salt og peber
+      - amount: 1
+        unit: bundt
+        name: Frisk basilikum
+instructions:
+  - list:
+      - Kog pastaen efter pakkens anvisning. Hæld vandet fra, og lad pastaen køle af.
+      - Bland olie, eddike, citronsaft, presset hvidløg, salt og peber.
+      - Vend pastaen med tomater, peberfrugt og dressingen.
+      - Hak basilikummen, vend det meste i salaten, og pynt med resten.
+---

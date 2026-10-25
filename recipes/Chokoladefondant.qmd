@@ -1,0 +1,58 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Lun chokoladefondant med flydende midte
+categories: [Dessert, Chokolade]
+course: Dessert
+cuisine: Fransk
+keyword: chokolade, fondant, dessert
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 10
+        unit: minutter
+servings:
+  - value: 4
+    unit: portioner
+summary: Små lune chokoladekager med blød midte.
+ingredients:
+  - list:
+      - amount: 100
+        unit: g
+        name: Mørk chokolade
+      - amount: 100
+        unit: g
+        name: Smør
+      - amount: 50
+        unit: g
+        name: Sukker
+      - amount: 40
+        unit: g
+        name: Mel
+      - amount: 4
+        unit: stk
+        name: Æggeblommer
+      - amount: 2
+        unit: stk
+        name: Æggehvider
+      - amount: 1
+        unit: portion
+        name: Neutral olie
+        notes: (til formene)
+instructions:
+  - list:
+      - Smør fire små ovnfaste forme med olie, og læg en lille cirkel bagepapir i bunden.
+      - Smelt chokolade og smør forsigtigt sammen, og rør sukker og mel i.
+      - Rør æggeblommerne i. Pisk æggehviderne let skummende, og vend dem forsigtigt i chokolademassen.
+      - Fordel dejen i formene, og bag ved 200 °C i 9-11 minutter. Midten skal stadig være blød.
+      - Lad kagerne stå et øjeblik, løsn dem forsigtigt, og servér lune.
+---

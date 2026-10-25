@@ -1,0 +1,63 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Skumkage
+categories: [Kage, Marengs]
+course: Dessert
+cuisine: Dansk
+keyword: skumkage, marengs, kage
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 30
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Kagebund med et luftigt lag af bagt marengs.
+ingredients:
+  - group: Kagebund
+    list:
+      - amount: 250
+        unit: g
+        name: Margarine
+      - amount: 250
+        unit: g
+        name: Sukker
+      - amount: 4
+        unit: stk
+        name: Æggeblommer
+      - amount: 375
+        unit: g
+        name: Mel
+      - amount: 1
+        unit: kop
+        name: Mælk
+      - amount: ½
+        unit: pakke
+        name: Bagepulver
+  - group: Marengs
+    list:
+      - amount: 4
+        unit: stk
+        name: Æggehvider
+      - amount: 250
+        unit: g
+        name: Sukker
+instructions:
+  - list:
+      - Rør margarine og sukker sammen, og pisk æggeblommerne i.
+      - Bland mel og bagepulver, og rør det i dejen skiftevis med mælken.
+      - Fordel dejen i en bradepande.
+      - Pisk æggehviderne stive. Tilsæt sukkeret lidt ad gangen, og fordel marengsen over dejen.
+      - Bag ved 200 °C i cirka 25-30 minutter, til marengsen er gylden.
+---

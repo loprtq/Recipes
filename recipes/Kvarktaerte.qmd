@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Kvarktærte
+categories: [Tærte, Kage]
+course: Dessert
+cuisine: Dansk
+keyword: kvark, tærte, citron
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 25
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 30
+        unit: minutter
+servings:
+  - value: 1
+    unit: tærte
+summary: Bagte kvarkfyld med citron, mandler og en enkel kiksebund.
+ingredients:
+  - group: Bund
+    list:
+      - amount: ½
+        unit: dl
+        name: Sukker
+      - amount: 200
+        unit: g
+        name: Mel
+      - amount: 100
+        unit: g
+        name: Margarine
+      - amount: 30
+        unit: g
+        name: Mandler
+      - amount: 2
+        unit: tsk
+        name: Bagepulver
+  - group: Fyld
+    list:
+      - amount: 250
+        unit: g
+        name: Sukker
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 500
+        unit: g
+        name: Kvark
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (skal og saft)
+      - amount: 12
+        unit: stk
+        name: Husblas
+      - amount: 3
+        unit: spsk
+        name: Piskefløde
+instructions:
+  - list:
+      - Bland ingredienserne til bunden, tryk dejen ud i en springform, og bag ved 200 °C i 20-30 minutter.
+      - Pisk sukker og æggeblommer sammen. Rør kvark og citronskal i.
+      - Udblød husblassen, smelt den, og rør den sammen med citronsaften og lidt af kvarkblandingen.
+      - Vend husblasblandingen i resten af fyldet sammen med pisket fløde.
+      - Fordel fyldet på den afkølede bund, og stil tærten koldt, til den har sat sig.
+---

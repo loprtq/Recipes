@@ -1,0 +1,57 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Signes appelsinkage
+categories: [Kage, Appelsin]
+course: Dessert
+cuisine: Dansk
+keyword: appelsin, kage, citrus
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 50
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Enkel appelsinkage med appelsinsukker og friskrevet skal.
+ingredients:
+  - group: Kage
+    list:
+      - amount: 250
+        unit: g
+        name: Mel
+      - amount: 250
+        unit: g
+        name: Sukker
+      - amount: 250
+        unit: g
+        name: Margarine
+      - amount: 3
+        unit: stk
+        name: Æg
+  - group: Appelsinlag
+    list:
+      - amount: 2
+        unit: stk
+        name: Appelsiner
+        notes: (saft og skal)
+      - amount: 100
+        unit: g
+        name: Sukker
+instructions:
+  - list:
+      - Rør margarine og sukker sammen, og pisk æggene i et ad gangen.
+      - Vend melet i, og hæld dejen i en smurt form.
+      - Bag ved 175 °C i cirka 50 minutter.
+      - Riv appelsinskallen fint, og bland den med appelsinsaft og sukker. Hæld blandingen over den varme kage.
+---

@@ -1,0 +1,54 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Steffens brød
+categories: [Brød]
+course: Tilbehør
+cuisine: Dansk
+keyword: brød, gær, olie
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 120
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 30
+        unit: minutter
+servings:
+  - value: 1
+    unit: brød
+summary: Hvedebrød med olie, der får en lang hævetid.
+ingredients:
+  - list:
+      - amount: 4
+        unit: dl
+        name: Vand
+      - amount: 1-2
+        unit: spsk
+        name: Olie
+      - amount: 25
+        unit: g
+        name: Gær
+      - amount: 2
+        unit: tsk
+        name: Salt
+      - amount: 2
+        unit: tsk
+        name: Sukker
+      - amount: 500
+        unit: g
+        name: Mel
+        notes: (cirka)
+instructions:
+  - list:
+      - Rør gæren ud i vandet, og tilsæt olie, salt og sukker.
+      - Ælt melet i lidt ad gangen, til dejen er smidig. Lad dejen hæve tildækket i mindst 30 minutter, gerne længere.
+      - Form dejen til et brød, og lad det efterhæve.
+      - Bag ved 225 °C i cirka 20-30 minutter, til brødet er gennembagt.
+---

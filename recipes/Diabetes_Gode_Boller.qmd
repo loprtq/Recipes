@@ -1,0 +1,53 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Diabetesvenlige boller
+categories: [Brød, Boller]
+course: Morgenmad
+cuisine: Dansk
+keyword: boller, diabetesvenlig, gær
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 90
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 12
+        unit: minutter
+servings:
+  - value: 16
+    unit: boller
+summary: Gærboller sødet med sødemiddel.
+ingredients:
+  - list:
+      - amount: 4
+        unit: dl
+        name: Mælk
+      - amount: 50
+        unit: g
+        name: Gær
+      - amount: 1
+        unit: dl
+        name: Olie
+      - amount: 50
+        unit: g
+        name: Sødemiddel
+      - amount: 650
+        unit: g
+        name: Mel
+      - amount: ½
+        unit: spsk
+        name: Salt
+instructions:
+  - list:
+      - Lun mælken, og rør gæren ud i den. Rør olie og sødemiddel i.
+      - Tilsæt mel og salt lidt efter lidt, og ælt dejen smidig.
+      - Lad dejen hæve tildækket, form boller, og lad dem efterhæve.
+      - Bag ved 225 °C i cirka 12 minutter.
+---

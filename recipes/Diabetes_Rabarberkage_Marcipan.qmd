@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Diabetesvenlig rabarberkage med marcipan
+categories: [Kage, Rabarber]
+course: Dessert
+cuisine: Dansk
+keyword: rabarber, diabetesvenlig, marcipan
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Rabarberkage sødet med sødemiddel og med marcipan i dejen.
+ingredients:
+  - list:
+      - amount: 2
+        unit: stk
+        name: Æg
+      - amount: 25
+        unit: g
+        name: Sødemiddel
+      - amount: ½
+        unit: tsk
+        name: Vaniljesukker
+      - amount: 25
+        unit: g
+        name: Marcipan
+      - amount: 1
+        unit: dl
+        name: Skummetmælk
+      - amount: 125
+        unit: g
+        name: Mel
+      - amount: 63
+        unit: g
+        name: Sødemiddel
+      - amount: ½
+        unit: tsk
+        name: Bagepulver
+      - amount: 150
+        unit: g
+        name: Rabarber
+  - group: Pynt
+    list:
+      - amount: ½
+        unit: tsk
+        name: Sødemiddel
+      - amount: ½
+        unit: tsk
+        name: Kanel
+      - amount: 13
+        unit: g
+        name: Mandler
+instructions:
+  - list:
+      - Pisk æg, sødemiddel og vaniljesukker luftigt. Riv marcipanen, og rør den i sammen med mælken.
+      - Bland mel og bagepulver, og vend det i dejen.
+      - Fordel dejen i en springform, og læg rabarberstykkerne ovenpå.
+      - Drys med sødemiddel, kanel og hakkede mandler.
+      - Bag ved 200 °C i cirka 20-30 minutter.
+---

@@ -1,0 +1,51 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Mors lagkagebunde
+categories: [Kage, Lagkage]
+course: Dessert
+cuisine: Dansk
+keyword: lagkage, bunde, kage
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 15
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 12
+        unit: minutter
+servings:
+  - value: 2
+    unit: bunde
+summary: Luftige lagkagebunde med kartoffelmel.
+ingredients:
+  - list:
+      - amount: 4
+        unit: stk
+        name: Æg
+      - amount: 1
+        unit: kop
+        name: Sukker
+      - amount: ¾
+        unit: kop
+        name: Kartoffelmel
+      - amount: 1
+        unit: spsk
+        name: Bagepulver
+      - amount: ¼
+        unit: kop
+        name: Varmt vand
+instructions:
+  - list:
+      - Pisk æg og sukker lyst og luftigt.
+      - Vend kartoffelmel og bagepulver forsigtigt i, og tilsæt det varme vand.
+      - Fordel dejen på to bageplader beklædt med bagepapir.
+      - Bag bundene ved 200 °C i 10-12 minutter.
+      - Lad bundene køle af, før de fyldes.
+---

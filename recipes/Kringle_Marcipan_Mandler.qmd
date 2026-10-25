@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Kringle med marcipan og mandler
+categories: [Kage, Kringle]
+course: Dessert
+cuisine: Dansk
+keyword: kringle, marcipan, mandler
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 3
+        unit: timer
+  - group: Cook
+    list:
+      - value: 10
+        unit: minutter
+servings:
+  - value: 4-6
+    unit: personer
+summary: Gærdej med fyld af marcipan og rosiner, formet som kringle.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 50
+        unit: g
+        name: Gær
+      - amount: 2
+        unit: spsk
+        name: Koldt vand
+      - amount: 300
+        unit: g
+        name: Mel
+      - amount: 200
+        unit: g
+        name: Margarine
+      - amount: 1
+        unit: spsk
+        name: Sukker
+      - amount: 2
+        unit: stk
+        name: Æg
+  - group: Fyld
+    list:
+      - amount: 90
+        unit: g
+        name: Sukker
+      - amount: 100
+        unit: g
+        name: Margarine
+      - amount: 50
+        unit: g
+        name: Marcipan
+      - amount: 25
+        unit: g
+        name: Rosiner
+  - group: Pensling og pynt
+    list:
+      - amount: 1
+        unit: stk
+        name: Æg
+        notes: (sammenpisket)
+      - amount: 25
+        unit: g
+        name: Mandler
+        notes: (flager)
+instructions:
+  - list:
+      - Rør gæren ud i det kolde vand. Smuldr margarine i melet, tilsæt sukker og æg, og ælt det sammen med gæren.
+      - Stil dejen koldt i 2-3 timer.
+      - Rør sukker, margarine, marcipan og rosiner sammen til fyld.
+      - Rul eller tryk dejen ud, fordel fyldet på midten, og fold dejen omkring det.
+      - Pensl med sammenpisket æg, drys med mandelflager, og bag ved 250 °C i cirka 10 minutter.
+---

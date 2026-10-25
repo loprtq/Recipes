@@ -1,0 +1,54 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Chokoladekage
+categories: [Kage, Chokolade]
+course: Dessert
+cuisine: Dansk
+keyword: chokolade, kage, kakao
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 15
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 45
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Fyldig chokoladekage med kakao og chokolade.
+ingredients:
+  - list:
+      - amount: 135
+        unit: g
+        name: Margarine
+      - amount: 125
+        unit: g
+        name: Chokolade
+      - amount: 250
+        unit: g
+        name: Sukker
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 375
+        unit: g
+        name: Mel
+      - amount: 2
+        unit: tsk
+        name: Bagepulver
+instructions:
+  - list:
+      - Smelt margarine og chokolade forsigtigt sammen, og lad blandingen køle lidt af.
+      - Pisk sukker og æg sammen, og rør chokoladeblandingen i.
+      - Vend melet og bagepulveret i dejen.
+      - Hæld dejen i en smurt springform, og bag ved 170 °C i cirka 45 minutter.
+      - Lad kagen køle af i formen.
+---

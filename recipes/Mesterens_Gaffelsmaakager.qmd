@@ -1,0 +1,49 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Mesterens gaffelsmåkager
+categories: [Småkager, Nødder]
+course: Dessert
+cuisine: Dansk
+keyword: småkager, hasselnød, gaffel
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 10
+        unit: minutter
+servings:
+  - value: 40
+    unit: småkager
+summary: Sprøde småkager med hasselnødder, formet med en gaffel.
+ingredients:
+  - list:
+      - amount: 250
+        unit: g
+        name: Smør
+      - amount: 125
+        unit: g
+        name: Sukker
+      - amount: 375
+        unit: g
+        name: Mel
+      - amount: 1½
+        unit: tsk
+        name: Bagepulver
+      - amount: 1½
+        unit: dl
+        name: Finthakkede hasselnødder
+instructions:
+  - list:
+      - Rør smør og sukker sammen, og ælt mel, bagepulver og hasselnødder i.
+      - Tril små kugler, tryk dem let flade med en gaffel, og læg dem på en bageplade.
+      - Bag ved 180 °C i 8-10 minutter, til småkagerne er gyldne.
+---

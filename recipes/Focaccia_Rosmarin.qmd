@@ -1,0 +1,58 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Focaccia med rosmarin
+categories: [Brød, Focaccia]
+course: Tilbehør
+cuisine: Italiensk
+keyword: focaccia, rosmarin, olivenolie
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 90
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 1
+    unit: brød
+summary: Luftigt focacciabrød krydret med rosmarin og havsalt.
+ingredients:
+  - list:
+      - amount: 650
+        unit: g
+        name: Mel
+      - amount: 50
+        unit: g
+        name: Gær
+      - amount: 3
+        unit: spsk
+        name: Olivenolie
+      - amount: 3¾
+        unit: dl
+        name: Lunkent vand
+      - amount: 1
+        unit: tsk
+        name: Salt
+      - amount: 2
+        unit: spsk
+        name: Rosmarin
+      - amount: 1
+        unit: portion
+        name: Groft salt og olivenolie
+        notes: (til toppen)
+instructions:
+  - list:
+      - Rør gæren ud i det lunkne vand, og tilsæt olie og salt.
+      - Ælt melet i lidt ad gangen, og ælt dejen godt sammen med rosmarinen.
+      - Lad dejen hæve tildækket i cirka en time.
+      - Tryk dejen ud på en bageplade, lav små fordybninger med fingrene, og dryp med olivenolie.
+      - Drys med groft salt, og bag ved 230 °C, til brødet er gyldent.
+---

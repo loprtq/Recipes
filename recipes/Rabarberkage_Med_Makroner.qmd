@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Kage med rabarber
+categories: [Kage, Rabarber]
+course: Dessert
+cuisine: Dansk
+keyword: rabarber, kage, makroner
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 50
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Rabarberkage med makroner og et sprødt sukkerlag.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 200
+        unit: g
+        name: Sukker
+      - amount: 250
+        unit: g
+        name: Smør
+      - amount: 2
+        unit: stk
+        name: Æg
+      - amount: 225
+        unit: g
+        name: Mel
+      - amount: 2
+        unit: tsk
+        name: Bagepulver
+      - amount: 2-3
+        unit: stk
+        name: Knuste makroner
+      - amount: 4
+        unit: dl
+        name: Rabarber
+        notes: (skåret i små stykker)
+  - group: Drys
+    list:
+      - amount: 2
+        unit: spsk
+        name: Sukker
+      - amount: 1
+        unit: tsk
+        name: Kanel
+instructions:
+  - list:
+      - Rør sukker og smør sammen, og pisk æggene i.
+      - Bland mel og bagepulver, og vend det i dejen.
+      - Vend de knuste makroner og rabarberstykker i.
+      - Hæld dejen i en smurt springform, og drys med sukker og kanel.
+      - Bag ved 200 °C i 45-50 minutter. Servér med flødeskum og lidt revet citronskal.
+---

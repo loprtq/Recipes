@@ -1,0 +1,71 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Honningkage
+categories: [Kage, Honning]
+course: Dessert
+cuisine: Dansk
+keyword: honning, kage, krydderier
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 40
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Krydret honningkage med kærnemælk og citronskal.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 250
+        unit: g
+        name: Lys sirup
+      - amount: 250
+        unit: g
+        name: Brun farin
+      - amount: 125
+        unit: g
+        name: Margarine
+      - amount: 1
+        unit: stk
+        name: Æg
+      - amount: ¼
+        unit: l
+        name: Kærnemælk
+      - amount: 500
+        unit: g
+        name: Mel
+      - amount: ½
+        unit: tsk
+        name: Bagepulver
+      - amount: 1
+        unit: tsk
+        name: Natron
+      - amount: 1
+        unit: tsk
+        name: Nelliker
+      - amount: 2
+        unit: tsk
+        name: Kanel
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (revet skal)
+instructions:
+  - list:
+      - Varm sirup og margarine sammen ved svag varme, og lad blandingen køle af.
+      - Rør farin, æg og kærnemælk i.
+      - Bland mel, bagepulver, natron og krydderier, og vend det i dejen sammen med citronskal.
+      - Hæld dejen i en smurt form.
+      - Bag ved 180 °C, til kagen er gennembagt; begynd at kontrollere efter cirka 35 minutter.
+---

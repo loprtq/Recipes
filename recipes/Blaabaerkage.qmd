@@ -1,0 +1,54 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Blåbærkage med marcipan
+categories: [Kage, Blåbær]
+course: Dessert
+cuisine: Dansk
+keyword: blåbær, marcipan, hvid chokolade
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 40
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Saftig blåbærkage med marcipan og hvid chokolade.
+ingredients:
+  - list:
+      - amount: 200
+        unit: g
+        name: Marcipan
+      - amount: 200
+        unit: g
+        name: Sukker
+      - amount: 200
+        unit: g
+        name: Hvid chokolade
+        notes: (grofthakket)
+      - amount: 4
+        unit: stk
+        name: Æg
+      - amount: 100
+        unit: g
+        name: Hvedemel
+      - amount: 150
+        unit: g
+        name: Blåbær
+instructions:
+  - list:
+      - Riv marcipanen, og rør den sammen med sukkeret.
+      - Pisk æggene i et ad gangen, og vend derefter mel og hakket chokolade i.
+      - Vend blåbærrene forsigtigt i dejen, og hæld den i en smurt springform.
+      - Bag ved 180 °C i cirka 40 minutter, til kagen er gennembagt.
+---

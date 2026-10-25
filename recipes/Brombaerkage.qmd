@@ -1,0 +1,60 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Brombærkage
+categories: [Kage, Brombær]
+course: Dessert
+cuisine: Dansk
+keyword: brombær, mandler, kage
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 15
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 30
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Enkel kage med mandler og friske brombær.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 25
+        unit: g
+        name: Mandler
+      - amount: 125
+        unit: g
+        name: Sukker
+      - amount: 3
+        unit: stk
+        name: Æg
+  - group: Fyld
+    list:
+      - amount: 300
+        unit: g
+        name: Brombær
+      - amount: 1
+        unit: spsk
+        name: Sukker
+        notes: (til at drysse over bærrene)
+      - amount: 1
+        unit: lille glas
+        name: Æblegele
+      - amount: 2
+        unit: spsk
+        name: Vand
+instructions:
+  - list:
+      - Hak mandlerne fint, og bland dem med sukker og æg.
+      - Hæld dejen i en smurt tærteform, og bag ved 200 °C i cirka 25-30 minutter.
+      - Fordel brombærrene over kagen, og drys med sukker.
+      - Smelt æblegeleen med vand, og hæld den over bærrene. Servér eventuelt med cremefraiche eller flødeskum.
+---

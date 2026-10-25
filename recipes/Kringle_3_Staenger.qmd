@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Kringle i tre stænger
+categories: [Kage, Kringle]
+course: Dessert
+cuisine: Dansk
+keyword: kringle, marcipan, gærdej
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 90
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 15
+        unit: minutter
+servings:
+  - value: 3
+    unit: stænger
+summary: Gærkringle med marcipanremonce, samlet i tre stænger.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 275
+        unit: g
+        name: Mel
+      - amount: 250
+        unit: g
+        name: Margarine
+      - amount: 20
+        unit: g
+        name: Sukker
+      - amount: 1
+        unit: tsk
+        name: Salt
+      - amount: 50
+        unit: g
+        name: Gær
+      - amount: 1
+        unit: stk
+        name: Æg
+      - amount: 1
+        unit: dl
+        name: Lunkent vand
+  - group: Fyld
+    list:
+      - amount: 100
+        unit: g
+        name: Sukker
+      - amount: 100
+        unit: g
+        name: Marcipan
+      - amount: 100
+        unit: g
+        name: Smør
+      - amount: 1
+        unit: spsk
+        name: Mel
+      - amount: 1
+        unit: stk
+        name: Æble
+        notes: (revet)
+  - group: Pensling og pynt
+    list:
+      - amount: 1
+        unit: stk
+        name: Æg
+      - amount: 1
+        unit: portion
+        name: Nøddeflager og rørsukker
+instructions:
+  - list:
+      - Rør gæren ud i vandet. Smuldr margarinen i melet, og ælt sukker, salt og æg i.
+      - Lad dejen hæve cirka 20 minutter.
+      - Rør sukker, marcipan, smør og mel sammen til remonce, og vend det revne æble i.
+      - Del dejen i tre stykker, rul dem ud, og fordel fyldet på midten. Fold dejen om fyldet.
+      - Pensl med æg, drys med nødder og rørsukker, og lad stængerne efterhæve.
+      - Bag ved 200 °C i 12-15 minutter, til kringlerne er gyldne.
+---

@@ -1,0 +1,69 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Tines franske citrontærte
+categories: [Citrus, Tærte]
+course: Dessert
+cuisine: Fransk
+keyword: citron, tærte
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 30
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 35
+        unit: minutter
+servings:
+  - value: 6-8
+    unit: personer
+summary: Sprød mørdejsbund med fyld af citron, æg og smør.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 150
+        unit: g
+        name: Mel
+      - amount: 100
+        unit: g
+        name: Smør
+      - amount: 75
+        unit: g
+        name: Flormelis
+      - amount: 1
+        unit: stk
+        name: Æg
+  - group: Fyld
+    list:
+      - amount: 2
+        unit: stk
+        name: Æg
+      - amount: 100
+        unit: g
+        name: Sukker
+      - amount: 2-3
+        unit: stk
+        name: Store citroner
+      - amount: 100
+        unit: g
+        name: Smør
+  - group: Pynt
+    list:
+      - amount: 2½
+        unit: dl
+        name: Piskefløde
+        notes: (valgfrit)
+instructions:
+  - list:
+      - Smuldr smørret i melet. Tilsæt flormelis og til sidst ægget, og saml dejen hurtigt.
+      - Læg dejen koldt i cirka en time.
+      - Pisk æg og sukker let skummende. Rør fintrevet skal fra to citroner og saft fra 2-3 citroner i, og tilsæt smeltet smør.
+      - Tænd ovnen på 200 °C. Smør en tærteform, tryk dejen ud i formen, og hæld fyldet i.
+      - Bag tærten i cirka 35 minutter. Pynt eventuelt den afkølede tærte med flødeskum.
+---

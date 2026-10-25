@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: God æblekage
+categories: [Kage, Æble]
+course: Dessert
+cuisine: Dansk
+keyword: æble, kage, kanel
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Æblekage med kanel, havregryn og et sprødt drys.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 125
+        unit: g
+        name: Smør
+      - amount: 125
+        unit: g
+        name: Sukker
+      - amount: 125
+        unit: g
+        name: Brun farin
+      - amount: 1
+        unit: stk
+        name: Æg
+      - amount: 1
+        unit: tsk
+        name: Bagepulver
+      - amount: 1
+        unit: tsk
+        name: Vaniljesukker
+      - amount: 4
+        unit: stk
+        name: Æbler
+        notes: (skrællede og skåret i både)
+  - group: Drys
+    list:
+      - amount: 15
+        unit: spsk
+        name: Havregryn
+      - amount: 1
+        unit: tsk
+        name: Kanel
+instructions:
+  - list:
+      - Rør smør og sukker sammen, og tilsæt ægget.
+      - Bland mel, bagepulver og vaniljesukker, og rør det i dejen.
+      - Fordel dejen i en form, og læg æblebådene ovenpå.
+      - Drys med havregryn og kanel, og bag ved 200 °C i cirka 25 minutter.
+---

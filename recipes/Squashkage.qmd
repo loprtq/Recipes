@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Squashkage
+categories: [Kage, Squash]
+course: Dessert
+cuisine: Dansk
+keyword: squash, kage, kanel
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 60
+        unit: minutter
+servings:
+  - value: 1
+    unit: bradepandekage
+summary: Krydret squashkage med ananas.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 250
+        unit: g
+        name: Sukker
+      - amount: 1½
+        unit: tsk
+        name: Vaniljesukker
+      - amount: 1
+        unit: tsk
+        name: Bagepulver
+      - amount: 1
+        unit: tsk
+        name: Salt
+      - amount: 1½
+        unit: tsk
+        name: Kanel
+      - amount: 1
+        unit: tsk
+        name: Natron
+      - amount: 250
+        unit: g
+        name: Mel
+      - amount: 2½
+        unit: dl
+        name: Revet squash
+      - amount: 250
+        unit: g
+        name: Ananas
+        notes: (i tern)
+instructions:
+  - list:
+      - Pisk æg og sukker lyst og luftigt.
+      - Bland vaniljesukker, bagepulver, salt, kanel, natron og mel, og vend det i æggemassen.
+      - Rør squash og ananas i.
+      - Hæld dejen i en bradepande, og bag ved 175 °C i cirka 60 minutter.
+---

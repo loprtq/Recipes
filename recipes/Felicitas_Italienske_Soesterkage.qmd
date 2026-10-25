@@ -1,0 +1,52 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Felicitas italienske søsterkage
+categories: [Kage, Mandler]
+course: Dessert
+cuisine: Italiensk
+keyword: mandler, nødder, kage
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 40
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Tæt mandelkage med piskefløde.
+ingredients:
+  - list:
+      - amount: 500
+        unit: g
+        name: Hakkede nødder
+        notes: (nøddetypen er utydelig i noten)
+      - amount: 100
+        unit: g
+        name: Smuttede mandler
+        notes: (hakkede)
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 180
+        unit: g
+        name: Sukker
+      - amount: ½
+        unit: dl
+        name: Piskefløde
+instructions:
+  - list:
+      - Pisk æg og sukker luftigt.
+      - Vend de hakkede mandler og fløden i.
+      - Hæld dejen i en smurt springform, og bag ved 180 °C i cirka 40 minutter.
+      - Lad kagen køle af, og servér eventuelt med flødeskum.
+---

@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Mors brune lagkage
+categories: [Kage, Chokolade]
+course: Dessert
+cuisine: Dansk
+keyword: chokolade, lagkage, kakao
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 15
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 30
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Chokoladekagebagte lagkagebunde med kakao og smørcreme.
+ingredients:
+  - group: Bunde
+    list:
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 150
+        unit: g
+        name: Sukker
+      - amount: 150
+        unit: g
+        name: Mel
+      - amount: 2
+        unit: spsk
+        name: Vand
+      - amount: ¼
+        unit: tsk
+        name: Bagepulver
+      - amount: 2
+        unit: spsk
+        name: Kakao
+      - amount: 1
+        unit: tsk
+        name: Vaniljesukker
+  - group: Smørcreme
+    list:
+      - amount: 1
+        unit: portion
+        name: Smørcreme
+        notes: (lav efter foretrukken opskrift)
+      - amount: 1
+        unit: portion
+        name: Flødeskum
+  - group: Pynt
+    list:
+      - amount: 1
+        unit: portion
+        name: Hakkede nødder
+      - amount: 1
+        unit: portion
+        name: Revet chokolade
+instructions:
+  - list:
+      - Pisk æg og sukker lyst og luftigt. Vend mel, bagepulver, kakao og vaniljesukker i.
+      - Rør vandet i, og hæld dejen i en smurt springform.
+      - Bag ved cirka 170 °C i 25-30 minutter. Lad kagen køle helt af.
+      - Del kagen i lag, og fyld med smørcreme og flødeskum.
+      - Pynt med hakkede nødder og revet chokolade.
+---

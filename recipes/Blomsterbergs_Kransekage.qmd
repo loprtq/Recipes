@@ -1,0 +1,45 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Blomsterbergs kransekage
+categories: [Kage, Kransekage]
+course: Dessert
+cuisine: Dansk
+keyword: kransekage, marcipan, mandler
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 45
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 30
+        unit: minutter
+servings:
+  - value: 1
+    unit: kransekage
+summary: Kransekagemasse af rå marcipan, flormelis og æggehvide, formet i ringe.
+ingredients:
+  - list:
+      - amount: 500
+        unit: g
+        name: Rå marcipan
+      - amount: 200
+        unit: g
+        name: Flormelis
+      - amount: 1
+        unit: stk
+        name: Æggehvide
+        notes: (tilsæt lidt ad gangen)
+instructions:
+  - list:
+      - Ælt marcipan og flormelis sammen, og arbejd æggehviden i lidt ad gangen, til massen er fast og smidig.
+      - Lad massen hvile koldt i cirka 30 minutter.
+      - Form kransekageringe med let fugtige hænder, og læg dem på bagepapir.
+      - Bag ved cirka 200 °C, til ringene er gyldne. Lad dem køle helt af.
+---

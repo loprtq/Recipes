@@ -1,0 +1,70 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Citronkage med sukkerlage
+categories: [Kage, Citrus]
+course: Dessert
+cuisine: Dansk
+keyword: citron, kage, sukkerlage
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 35
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Blød citronkage med citronskal og sød sukkerlage.
+ingredients:
+  - group: Kage
+    list:
+      - amount: 200
+        unit: g
+        name: Smør
+      - amount: 200
+        unit: g
+        name: Sukker
+      - amount: 4
+        unit: stk
+        name: Æg
+      - amount: 200
+        unit: g
+        name: Mel
+      - amount: ½
+        unit: dl
+        name: Mælk
+      - amount: 2
+        unit: tsk
+        name: Vaniljesukker
+      - amount: 1
+        unit: tsk
+        name: Bagepulver
+      - amount: 2
+        unit: stk
+        name: Citroner
+        notes: (fintrevet skal)
+  - group: Sukkerlage
+    list:
+      - amount: 2
+        unit: stk
+        name: Citroner
+        notes: (saften)
+      - amount: 2
+        unit: spsk
+        name: Sukker
+instructions:
+  - list:
+      - Pisk smør og sukker lyst. Tilsæt æggene et ad gangen.
+      - Vend mel, mælk, vaniljesukker, bagepulver og citronskal i dejen.
+      - Hæld dejen i en smurt springform, og bag ved 175 °C i cirka 35 minutter.
+      - Rør citronsaft med sukker, og hæld lagen over den varme kage.
+---

@@ -1,0 +1,63 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Citronmuffins
+categories: [Kage, Muffins, Citrus]
+course: Dessert
+cuisine: Dansk
+keyword: citron, muffins, mandler
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 15
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 15
+        unit: minutter
+servings:
+  - value: 12
+    unit: muffins
+summary: Citronmuffins med valgfri chokolade eller mandler.
+ingredients:
+  - list:
+      - amount: 2
+        unit: stk
+        name: Æg
+      - amount: 2
+        unit: dl
+        name: Sukker
+      - amount: 1
+        unit: dl
+        name: Olie
+      - amount: 1
+        unit: dl
+        name: Cremefraiche
+      - amount: 3
+        unit: dl
+        name: Mel
+      - amount: ¼
+        unit: tsk
+        name: Salt
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (saft og skal)
+      - amount: 2
+        unit: tsk
+        name: Bagepulver
+      - amount: 50
+        unit: g
+        name: Hakkede mandler eller chokolade
+instructions:
+  - list:
+      - Pisk æg og sukker lyst. Rør olie, cremefraiche og citronsaft og -skal i.
+      - Bland mel, salt og bagepulver, og vend det i dejen. Rør eventuelt mandler eller chokolade i.
+      - Fordel dejen i muffinsforme, og bag ved 195 °C i 12-15 minutter.
+      - Pynt eventuelt med glasur af flormelis og citronsaft.
+---

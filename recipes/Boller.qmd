@@ -1,0 +1,61 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Boller
+categories: [Brød, Boller]
+course: Morgenmad
+cuisine: Dansk
+keyword: boller, gær, morgenbrød
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 60
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 12
+        unit: minutter
+servings:
+  - value: 16
+    unit: boller
+summary: Bløde hvedeboller med mælk og margarine.
+ingredients:
+  - list:
+      - amount: 2½
+        unit: dl
+        name: Mælk
+      - amount: 50
+        unit: g
+        name: Gær
+      - amount: 90
+        unit: g
+        name: Margarine
+      - amount: 1
+        unit: tsk
+        name: Sukker
+      - amount: 1
+        unit: tsk
+        name: Salt
+      - amount: 1
+        unit: stk
+        name: Æg
+      - amount: 500
+        unit: g
+        name: Mel
+      - amount: 1
+        unit: spsk
+        name: Fløde
+        notes: (til pensling)
+instructions:
+  - list:
+      - Lun mælken, og rør gæren ud i den.
+      - Smelt margarinen, og rør den i sammen med sukker, salt og æg.
+      - Ælt melet i lidt ad gangen, og ælt dejen godt. Lad den hæve tildækket i cirka 30 minutter.
+      - Form dejen til boller, og lad dem efterhæve, mens ovnen varmer op.
+      - Pensl med fløde, og bag ved 200 °C i 10-12 minutter.
+---

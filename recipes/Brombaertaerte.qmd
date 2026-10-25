@@ -1,0 +1,60 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Brombærtærte
+categories: [Tærte, Brombær]
+course: Dessert
+cuisine: Dansk
+keyword: brombær, tærte, mandler
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 35
+        unit: minutter
+servings:
+  - value: 1
+    unit: tærte
+summary: Tærte med søde brombær og en enkel mandelbund.
+ingredients:
+  - group: Bund
+    list:
+      - amount: 300
+        unit: g
+        name: Brombær
+      - amount: 75
+        unit: g
+        name: Sukker
+      - amount: 1
+        unit: tsk
+        name: Vaniljesukker
+      - amount: 150
+        unit: g
+        name: Smør
+      - amount: 125
+        unit: g
+        name: Mel
+      - amount: 75
+        unit: g
+        name: Grofthakkede mandler
+      - amount: 75
+        unit: g
+        name: Havregryn
+      - amount: 75
+        unit: g
+        name: Sukker
+instructions:
+  - list:
+      - Vend brombærrene med 75 g sukker og vaniljesukker, og fordel dem i et tærtefad.
+      - Smuldr smørret i mel, mandler, havregryn og resten af sukkeret.
+      - Fordel smuldredejen over bærrene.
+      - Bag ved 200 °C i 30-40 minutter, til toppen er gylden. Servér lun med cremefraiche eller flødeskum.
+---

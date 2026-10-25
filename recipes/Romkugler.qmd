@@ -1,0 +1,53 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Romkugler
+categories: [Dessert, Chokolade]
+course: Dessert
+cuisine: Dansk
+keyword: romkugler, kakao, hindbær
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 0
+        unit: minutter
+servings:
+  - value: 20
+    unit: kugler
+summary: Små romkugler lavet af kagerester, hindbærmarmelade og kakao.
+ingredients:
+  - list:
+      - amount: 1
+        unit: stk
+        name: Mazarinkage
+      - amount: 1
+        unit: stk
+        name: Hindbærroulade
+      - amount: 1
+        unit: spsk
+        name: Hindbærmarmelade
+      - amount: 2
+        unit: spsk
+        name: Romessens
+      - amount: 3
+        unit: spsk
+        name: Kakao
+      - amount: 1
+        unit: portion
+        name: Kokosmel
+        notes: (til at trille kuglerne i)
+instructions:
+  - list:
+      - Smuldr kagerne i en skål, og rør marmelade, romessens og kakao i.
+      - Blend eller ælt massen, til den kan formes. Stil den koldt, hvis den er blød.
+      - Tril små kugler, og vend dem i kokosmel.
+---

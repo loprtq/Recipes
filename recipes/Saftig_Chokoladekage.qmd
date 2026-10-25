@@ -1,0 +1,69 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Saftig chokoladekage
+categories: [Kage, Chokolade]
+course: Dessert
+cuisine: Dansk
+keyword: chokolade, kage, mandler
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 45
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Blød chokoladekage med kærnemælk og chokoladeglasur.
+ingredients:
+  - group: Kage
+    list:
+      - amount: 150
+        unit: g
+        name: Mørk chokolade
+      - amount: 150
+        unit: g
+        name: Sukker
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 2
+        unit: dl
+        name: Kærnemælk
+      - amount: 250
+        unit: g
+        name: Mel
+      - amount: 2
+        unit: tsk
+        name: Bagepulver
+      - amount: 1
+        unit: spsk
+        name: Olie
+  - group: Glasur
+    list:
+      - amount: 250
+        unit: g
+        name: Flormelis
+      - amount: 100
+        unit: g
+        name: Mørk chokolade
+      - amount: 1
+        unit: portion
+        name: Hakkede mandler
+instructions:
+  - list:
+      - Smelt chokoladen forsigtigt, og lad den køle lidt af.
+      - Pisk æg og sukker sammen. Rør kærnemælk og olie i, og vend mel og bagepulver i.
+      - Vend den smeltede chokolade i dejen, og hæld den i en smurt form.
+      - Bag ved 150 °C i cirka 40-45 minutter, og lad kagen køle af.
+      - Rør flormelis med lidt vand til glasur. Fordel den over kagen, og pynt med hakket chokolade og mandler.
+---

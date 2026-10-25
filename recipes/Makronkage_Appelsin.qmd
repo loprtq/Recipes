@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Makronkage med appelsin
+categories: [Kage, Appelsin, Makron]
+course: Dessert
+cuisine: Dansk
+keyword: makron, appelsin, mandler
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 40
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Appelsinkage med makroner og et sprødt marengslag.
+ingredients:
+  - group: Kage
+    list:
+      - amount: 4
+        unit: stk
+        name: Æg
+      - amount: 200
+        unit: g
+        name: Sukker
+      - amount: 200
+        unit: g
+        name: Mel
+      - amount: 100
+        unit: g
+        name: Hakkede mandler
+      - amount: 50
+        unit: g
+        name: Finthakkede rosiner
+      - amount: 2
+        unit: dl
+        name: Olie
+      - amount: 2
+        unit: tsk
+        name: Bagepulver
+      - amount: 1
+        unit: tsk
+        name: Vaniljesukker
+      - amount: 3
+        unit: stk
+        name: Appelsiner
+        notes: (revet skal)
+  - group: Marengs
+    list:
+      - amount: 3
+        unit: stk
+        name: Æggehvider
+      - amount: 2
+        unit: dl
+        name: Sukker
+      - amount: 1
+        unit: stk
+        name: Appelsin
+        notes: (saft)
+instructions:
+  - list:
+      - Pisk æg og sukker lyst. Rør mel, mandler, rosiner, olie, bagepulver, vaniljesukker og appelsinskal i.
+      - Hæld dejen i en smurt form, og bag ved 155 °C i 35-40 minutter.
+      - Pisk æggehvider og sukker stift, og smag til med appelsinsaft.
+      - Fordel marengsen på kagen, og bag yderligere cirka 5 minutter, til toppen er let gylden.
+---

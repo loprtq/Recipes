@@ -1,0 +1,50 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Nøddedrømme
+categories: [Småkager, Nødder]
+course: Dessert
+cuisine: Dansk
+keyword: nødder, småkager, chokolade
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 15
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 8
+        unit: minutter
+servings:
+  - value: 1
+    unit: stk
+summary: Små sprøde nøddetoppe med chokolade på bunden.
+ingredients:
+  - list:
+      - amount: 250
+        unit: g
+        name: Hasselnødder
+        notes: (blendede)
+      - amount: 200
+        unit: g
+        name: Sukker
+      - amount: 4
+        unit: stk
+        name: Æggehvider
+      - amount: 1
+        unit: portion
+        name: Mørk chokolade
+        notes: (smeltet, til pynt)
+instructions:
+  - list:
+      - Pisk æggehviderne stive.
+      - Vend sukker og blendede hasselnødder forsigtigt i.
+      - Sæt små toppe på en bageplade med en ske.
+      - Bag ved 200 °C i cirka 8 minutter, til kagerne er let gyldne.
+      - Dyp bunden i smeltet chokolade, når kagerne er kølet af.
+---

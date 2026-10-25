@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Citrontærte med mørdejsbund
+categories: [Tærte, Citrus]
+course: Dessert
+cuisine: Dansk
+keyword: citron, tærte, mørdej
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 30
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 1
+    unit: tærte
+summary: Syrlig citronfyld i en sprød mørdejsbund.
+ingredients:
+  - group: Bund
+    list:
+      - amount: 3
+        unit: dl
+        name: Hvedemel
+      - amount: 1
+        unit: dl
+        name: Sukker
+      - amount: 1
+        unit: tsk
+        name: Bagepulver
+      - amount: 150
+        unit: g
+        name: Blødt smør
+  - group: Fyld
+    list:
+      - amount: 400
+        unit: g
+        name: Sukker
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 2
+        unit: dl
+        name: Piskefløde
+      - amount: 2
+        unit: stk
+        name: Citroner
+        notes: (saft og skal)
+instructions:
+  - list:
+      - Smuldr smørret i mel, sukker og bagepulver. Saml dejen, og tryk den ud i en tærteform.
+      - Forbag bunden ved 200 °C i 15-20 minutter.
+      - Pisk sukker og æg sammen. Rør fløde, citronsaft og -skal i.
+      - Hæld fyldet i den forbagte bund, og bag ved 200 °C i 20-25 minutter, til fyldet har sat sig.
+      - Servér tærten kold, eventuelt med ribs eller andre bær.
+---

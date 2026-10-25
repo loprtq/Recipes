@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Chokoladekage med smørcreme
+categories: [Kage, Chokolade]
+course: Dessert
+cuisine: Dansk
+keyword: chokoladekage, smørcreme, kakao
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 40
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Blød kakaokage pyntet med smørcreme.
+ingredients:
+  - group: Kage
+    list:
+      - amount: 125
+        unit: g
+        name: Margarine
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 1½
+        unit: kop
+        name: Sukker
+      - amount: 2
+        unit: kop
+        name: Mel
+      - amount: ½
+        unit: kop
+        name: Kartoffelmel
+      - amount: 3
+        unit: spsk
+        name: Kakao
+      - amount: 1
+        unit: kop
+        name: Mælk
+      - amount: 3
+        unit: tsk
+        name: Bagepulver
+  - group: Smørcreme
+    list:
+      - amount: 1
+        unit: portion
+        name: Smørcreme
+        notes: (smør og sukker røres sammen; smag til med vanilje)
+instructions:
+  - list:
+      - Pisk æg og sukker sammen, og rør den smeltede margarine i.
+      - Bland mel, kartoffelmel, kakao og bagepulver. Rør det i dejen skiftevis med mælken.
+      - Hæld dejen i en smurt form, og bag ved 170 °C i cirka 40 minutter.
+      - Lad kagen køle af, og smør smørcremen over toppen.
+---

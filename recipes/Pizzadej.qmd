@@ -1,0 +1,70 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Pizzadej og tomatsauce
+categories: [Pizza, Brød]
+course: Main Course
+cuisine: Italiensk
+keyword: pizza, pizzadej, tomatsauce
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 3
+        unit: timer
+  - group: Cook
+    list:
+      - value: 15
+        unit: minutter
+servings:
+  - value: 3
+    unit: pizzaer
+summary: Gærhævet pizzadej med enkel tomatsauce og forslag til fyld.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 2½
+        unit: dl
+        name: Lunkent vand
+      - amount: 15
+        unit: g
+        name: Gær
+      - amount: 2
+        unit: tsk
+        name: Salt
+      - amount: 500
+        unit: g
+        name: Mel
+      - amount: 2-3
+        unit: spsk
+        name: Olivenolie
+  - group: Tomatsauce
+    list:
+      - amount: 2
+        unit: dåser
+        name: Hakkede tomater
+      - amount: 8-10
+        unit: blade
+        name: Frisk basilikum
+      - amount: ½
+        unit: dl
+        name: Olivenolie
+      - amount: 1
+        unit: tsk
+        name: Salt
+  - group: Fyld efter smag
+    list:
+      - amount: 1
+        unit: portion
+        name: Ost, skinke, kebab, rejer eller pepperoni
+instructions:
+  - list:
+      - Rør gæren ud i det lunkne vand, og tilsæt salt og olie.
+      - Ælt melet i lidt ad gangen, til dejen er smidig. Lad den hæve køligt i mindst 3 timer eller til næste dag.
+      - Blend tomater, basilikum, olie og salt til sauce.
+      - Del dejen i tre bunde, fordel sauce og fyld på, og bag ved høj ovnvarme, gerne omkring 250 °C, til bunden er sprød.
+---

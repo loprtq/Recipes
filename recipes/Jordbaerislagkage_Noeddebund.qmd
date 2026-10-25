@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Jordbærislagkage med nøddebunde
+categories: [Dessert, Is, Jordbær]
+course: Dessert
+cuisine: Dansk
+keyword: jordbær, islagkage, nødder
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 60
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 35
+        unit: minutter
+  - group: Total
+    list:
+      - value: 8
+        unit: timer
+servings:
+  - value: 10
+    unit: personer
+summary: Lagdelt isdessert med nøddebunde, jordbær og flødefyld.
+ingredients:
+  - group: Nøddebunde
+    list:
+      - amount: 4
+        unit: stk
+        name: Æggehvider
+      - amount: 125
+        unit: g
+        name: Sukker
+      - amount: 15
+        unit: g
+        name: Hvedemel
+      - amount: 125
+        unit: g
+        name: Hasselnødder
+        notes: (finthakkede)
+      - amount: 50
+        unit: g
+        name: Hvid chokolade
+        notes: (til pynt)
+  - group: Isfyld
+    list:
+      - amount: 5
+        unit: stk
+        name: Pasteuriserede æggeblommer
+      - amount: 100
+        unit: g
+        name: Sukker
+      - amount: 1
+        unit: stk
+        name: Vaniljestang
+      - amount: 5
+        unit: dl
+        name: Piskefløde
+      - amount: 350
+        unit: g
+        name: Jordbær
+  - group: Pynt
+    list:
+      - amount: 50
+        unit: g
+        name: Hvid chokolade
+      - amount: 50
+        unit: g
+        name: Jordbær
+instructions:
+  - list:
+      - Pisk æggehvider og sukker stift. Vend mel og nødder i, og fordel dejen i tre cirkler på bagepapir.
+      - Bag bundene ved 185 °C i 30-35 minutter. Lad dem køle helt af.
+      - Pisk æggeblommer og sukker luftigt. Skrab vaniljekornene ud, og vend dem og flødeskummet i.
+      - Mos de fleste jordbær, og vend dem i iscremen. Gem nogle bær til pynt.
+      - Læg bund og fyld lagvis i en springform, og frys kagen i mindst 8 timer.
+      - Pynt med smeltet hvid chokolade og jordbærskiver inden servering.
+---

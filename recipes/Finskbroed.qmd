@@ -1,0 +1,51 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Finskbrød
+categories: [Småkager, Jul]
+course: Dessert
+cuisine: Dansk
+keyword: finskbrød, småkager, mandler
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 25
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 12
+        unit: minutter
+servings:
+  - value: 40
+    unit: stk
+summary: Sprøde finskbrød med perlesukker og hakkede mandler.
+ingredients:
+  - list:
+      - amount: 350
+        unit: g
+        name: Margarine
+      - amount: 375
+        unit: g
+        name: Hvedemel
+      - amount: 100
+        unit: g
+        name: Sukker
+      - amount: 1
+        unit: stk
+        name: Æg
+        notes: (til pensling)
+      - amount: 1
+        unit: portion
+        name: Perlesukker og hakkede mandler
+instructions:
+  - list:
+      - Smuldr margarinen i melet, og ælt sukkeret i.
+      - Tril dejen til stænger, og skær dem i mindre stykker.
+      - Pensl med sammenpisket æg, og drys med perlesukker og hakkede mandler.
+      - Bag ved 180 °C i 10-12 minutter, til kagerne er gyldne.
+---

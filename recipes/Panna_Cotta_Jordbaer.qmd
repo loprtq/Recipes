@@ -1,0 +1,65 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Panna cotta med jordbær
+categories: [Dessert, Jordbær]
+course: Dessert
+cuisine: Italiensk
+keyword: panna cotta, fløde, jordbær
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 10
+        unit: minutter
+  - group: Total
+    list:
+      - value: 4
+        unit: timer
+servings:
+  - value: 4
+    unit: portioner
+summary: Fløjlsblød flødedessert med frisk jordbærpuré.
+ingredients:
+  - group: Panna cotta
+    list:
+      - amount: 4
+        unit: blade
+        name: Husblas
+      - amount: 1
+        unit: stk
+        name: Vaniljestang
+      - amount: 1
+        unit: dl
+        name: Sukker
+      - amount: 6
+        unit: dl
+        name: Fløde
+  - group: Jordbærpuré
+    list:
+      - amount: 300
+        unit: g
+        name: Jordbær
+      - amount: 125
+        unit: g
+        name: Flormelis
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (saft, efter smag)
+instructions:
+  - list:
+      - Læg husblassen i blød i koldt vand.
+      - Flæk vaniljestangen, og kog fløde, sukker og vaniljekorn op ved svag varme.
+      - Tag gryden af varmen, vrid husblassen, og rør den ud i den varme fløde.
+      - Hæld blandingen i portionsglas, og stil dem på køl i mindst 4 timer.
+      - Blend jordbær med flormelis og lidt citronsaft. Hæld puréen over panna cottaen før servering.
+---

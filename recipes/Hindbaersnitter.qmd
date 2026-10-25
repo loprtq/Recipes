@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Hindbærsnitter
+categories: [Kage, Hindbær]
+course: Dessert
+cuisine: Dansk
+keyword: hindbærsnitter, hindbær, mørdej
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 45
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 20
+        unit: minutter
+servings:
+  - value: 12
+    unit: snitter
+summary: Sprøde mørdejslag med hindbærfyld og glasur.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 200
+        unit: g
+        name: Hvedemel
+      - amount: 50
+        unit: g
+        name: Mandelmel
+      - amount: 50
+        unit: g
+        name: Sukker
+      - amount: 1
+        unit: tsk
+        name: Vaniljesukker
+      - amount: 1
+        unit: tsk
+        name: Bagepulver
+      - amount: 150
+        unit: g
+        name: Smør
+      - amount: ¼
+        unit: dl
+        name: Vand
+  - group: Fyld og pynt
+    list:
+      - amount: 200
+        unit: g
+        name: Hindbærmarmelade
+      - amount: 150
+        unit: g
+        name: Flormelis
+      - amount: 3
+        unit: tsk
+        name: Hindbærekstrakt
+      - amount: 1
+        unit: portion
+        name: Krymmel
+instructions:
+  - list:
+      - Bland mel, mandelmel, sukker, vaniljesukker og bagepulver.
+      - Smuldr smørret i blandingen, saml dejen med vand, og stil den koldt i mindst 30 minutter.
+      - Rul dejen ud, læg den på bagepapir, og bag ved 200 °C, til den er gylden. Lad den køle af.
+      - Smør marmelade på den ene bund, læg den anden ovenpå, og skær i snitter.
+      - Rør flormelis og hindbærsaft til glasur. Fordel glasuren på snitterne, og pynt med krymmel.
+---

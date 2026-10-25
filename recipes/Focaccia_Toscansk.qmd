@@ -1,0 +1,55 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Toscansk focaccia
+categories: [Brød, Focaccia]
+course: Tilbehør
+cuisine: Italiensk
+keyword: focaccia, fladbrød, olivenolie
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 90
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 1
+    unit: brød
+summary: Blødt italiensk fladbrød med olivenolie og salt.
+ingredients:
+  - list:
+      - amount: ½
+        unit: l
+        name: Lunkent vand
+      - amount: 50
+        unit: g
+        name: Gær
+      - amount: 1
+        unit: tsk
+        name: Salt
+      - amount: 500
+        unit: g
+        name: Mel
+      - amount: ½
+        unit: dl
+        name: Olivenolie
+      - amount: 1
+        unit: portion
+        name: Olivenolie og groft salt
+        notes: (til toppen)
+instructions:
+  - list:
+      - Rør gæren ud i vandet sammen med saltet.
+      - Tilsæt melet gradvist, og ælt til en smidig dej. Ælt olivenolien ind til sidst.
+      - Lad dejen hæve tildækket i cirka 30 minutter.
+      - Tryk dejen ud i en olieret bradepande. Dryp med olie, drys med groft salt, og lad den hæve igen.
+      - Bag ved 220 °C, til brødet er let gyldent og gennembagt.
+---

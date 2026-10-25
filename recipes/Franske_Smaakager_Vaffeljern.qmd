@@ -1,0 +1,46 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Franske småkager i vaffeljern
+categories: [Småkager]
+course: Dessert
+cuisine: Dansk
+keyword: småkager, vaffeljern, vanilje
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 20
+        unit: minutter
+servings:
+  - value: 30
+    unit: småkager
+summary: Sprøde småkager bagt gyldne i et vaffeljern.
+ingredients:
+  - list:
+      - amount: 200
+        unit: g
+        name: Smør
+      - amount: 75
+        unit: g
+        name: Flormelis
+      - amount: 1
+        unit: spsk
+        name: Vaniljesukker
+      - amount: 250
+        unit: g
+        name: Mel
+instructions:
+  - list:
+      - Rør smør, flormelis og vaniljesukker sammen.
+      - Ælt melet i, og tril dejen til små kugler.
+      - Bag kuglerne i et varmt vaffeljern, til småkagerne er gyldne.
+---

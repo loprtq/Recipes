@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Mormors gode kerneboller
+categories: [Brød, Boller]
+course: Morgenmad
+cuisine: Dansk
+keyword: boller, kerner, kardemomme
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 150
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 30-40
+    unit: boller
+summary: Store, grove boller med kerner og kardemomme, der koldhæves.
+ingredients:
+  - list:
+      - amount: 1
+        unit: l
+        name: Sødmælk
+      - amount: 3-6
+        unit: tsk
+        name: Kardemomme
+      - amount: 1
+        unit: dl
+        name: Kerner
+      - amount: ½
+        unit: dl
+        name: Solsikkekerner
+      - amount: ½
+        unit: dl
+        name: Sesamfrø
+      - amount: ½
+        unit: dl
+        name: Hørfrø
+      - amount: ½-1
+        unit: dl
+        name: Olie
+      - amount: 1½
+        unit: spsk
+        name: Salt
+      - amount: 1
+        unit: kg
+        name: Manitobamel
+      - amount: 1
+        unit: brev
+        name: Tørgær
+instructions:
+  - list:
+      - Lun mælken, og rør kardemomme, kerner, olie og salt i.
+      - Bland mel og tørgær, og ælt det i væsken. Ælt dejen grundigt.
+      - Dæk dejen til, og lad den hæve koldt natten over.
+      - Form bollerne, og læg dem på en bageplade. Sæt dem i en kold ovn.
+      - Tænd ovnen på 230 °C, og bag bollerne i cirka 20-25 minutter.
+---

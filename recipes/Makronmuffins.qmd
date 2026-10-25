@@ -1,0 +1,53 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Makronmuffins
+categories: [Kage, Muffins]
+course: Dessert
+cuisine: Dansk
+keyword: muffins, makroner, mandel
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 15
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 15
+        unit: minutter
+servings:
+  - value: 16-18
+    unit: muffins
+summary: Søde muffins med knuste makroner og mandelsmag.
+ingredients:
+  - list:
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 200
+        unit: g
+        name: Sukker
+      - amount: 125
+        unit: g
+        name: Mel
+      - amount: 125
+        unit: g
+        name: Knuste makroner
+      - amount: ½
+        unit: spsk
+        name: Mandelolie
+      - amount: 125
+        unit: g
+        name: Smeltet smør
+instructions:
+  - list:
+      - Pisk æg og sukker lyst og luftigt.
+      - Vend mel og knuste makroner i, og rør mandelolie og smeltet smør i.
+      - Fordel dejen i muffinsforme.
+      - Bag ved 200 °C i cirka 15 minutter.
+---

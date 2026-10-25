@@ -1,0 +1,47 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Mørdejsbund
+categories: [Bagning, Grundopskrift]
+course: Dessert
+cuisine: Dansk
+keyword: mørdej, tærtebund
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 15
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 20
+        unit: minutter
+servings:
+  - value: 1
+    unit: tærtebund
+summary: Enkel mørdejsbund til tærter og desserter.
+ingredients:
+  - list:
+      - amount: 150
+        unit: g
+        name: Mel
+      - amount: 100
+        unit: g
+        name: Smør
+      - amount: 50
+        unit: g
+        name: Flormelis
+      - amount: 1
+        unit: stk
+        name: Æggeblomme
+        notes: (eller 2 spsk fløde)
+instructions:
+  - list:
+      - Smuldr smørret i melet, og bland flormelis i.
+      - Saml dejen med æggeblommen eller fløden. Tryk den ud i en tærteform.
+      - Stil bunden koldt i 15-20 minutter, og bag ved 200 °C i cirka 15-20 minutter, til den er gylden.
+---

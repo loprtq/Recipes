@@ -1,0 +1,61 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Pæretærte med mandler
+categories: [Tærte, Pære]
+course: Dessert
+cuisine: Dansk
+keyword: pære, mandler, tærte
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 35
+        unit: minutter
+servings:
+  - value: 1
+    unit: tærte
+summary: Pæretærte med mandelflager og citron.
+ingredients:
+  - list:
+      - amount: 4
+        unit: stk
+        name: Æg
+      - amount: 125
+        unit: g
+        name: Blødt smør
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (revet skal)
+      - amount: 150
+        unit: g
+        name: Mel
+      - amount: 1
+        unit: tsk
+        name: Bagepulver
+      - amount: 150
+        unit: g
+        name: Sukker
+      - amount: 4
+        unit: stk
+        name: Modne pærer
+      - amount: 50
+        unit: g
+        name: Mandelflager
+instructions:
+  - list:
+      - Rør æggeblommerne sammen med smørret, og tilsæt citronskal.
+      - Bland mel, sukker og bagepulver, og rør det i dejen.
+      - Pisk æggehviderne stive, og vend dem forsigtigt i dejen.
+      - Hæld dejen i en smurt springform. Fordel pæreskiver og mandelflager ovenpå.
+      - Bag ved 175 °C i cirka 30-35 minutter, til tærten er gylden.
+---

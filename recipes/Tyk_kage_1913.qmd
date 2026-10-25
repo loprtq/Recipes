@@ -1,0 +1,65 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Tyk kage (1913)
+categories: [Kage, Historisk]
+course: Dessert
+cuisine: Bagning
+keyword: kage, citron, rosiner
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: En gammeldags, let syrlig kage med rosiner fra en opskrift dateret 1913.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 300
+        unit: g
+        name: Mel
+      - amount: 100
+        unit: g
+        name: Margarine
+      - amount: 75
+        unit: g
+        name: Sukker
+      - amount: 2
+        unit: stk
+        name: Æg
+      - amount: 1¼
+        unit: dl
+        name: Piskefløde
+      - amount: 50
+        unit: g
+        name: Gær
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (fintrevet skal)
+      - amount: 50
+        unit: g
+        name: Sukker
+      - amount: 50
+        unit: g
+        name: Rosiner
+instructions:
+  - list:
+      - Lun fløden let, og rør gæren ud i den.
+      - Smuldr margarinen i melet, og rør sukker og æg i.
+      - Tilsæt gærblandingen, citronskal og rosiner, og rør dejen sammen.
+      - Hæld dejen i en smurt form, og lad den hæve til næsten dobbelt størrelse.
+      - Bag ved 200 °C i cirka 25 minutter, til kagen er gennembagt.
+---

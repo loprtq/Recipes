@@ -1,0 +1,56 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Focacciabrød
+categories: [Brød, Focaccia]
+course: Tilbehør
+cuisine: Italiensk
+keyword: focaccia, durum, olivenolie
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 90
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 1
+    unit: brød
+summary: Focaccia med durumhvede og olivenolie.
+ingredients:
+  - list:
+      - amount: 25
+        unit: g
+        name: Gær
+      - amount: 3
+        unit: dl
+        name: Lunkent vand
+      - amount: 1½
+        unit: tsk
+        name: Salt
+      - amount: ½
+        unit: tsk
+        name: Sukker
+      - amount: 3
+        unit: spsk
+        name: Olivenolie
+      - amount: 200
+        unit: g
+        name: Durummel
+      - amount: 300
+        unit: g
+        name: Hvedemel
+instructions:
+  - list:
+      - Rør gæren ud i vandet. Tilsæt salt, sukker og olie.
+      - Ælt durummel og hvedemel i lidt ad gangen, til dejen er smidig. Lad hæve i cirka 30 minutter.
+      - Tryk dejen ud i en olieret form, lav fordybninger med fingrene, og lad den efterhæve.
+      - Bag ved 225 °C i 20-25 minutter, til brødet er gyldent.
+---

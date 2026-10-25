@@ -1,0 +1,59 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Krydderkage
+categories: [Kage, Krydderier]
+course: Dessert
+cuisine: Dansk
+keyword: krydderkage, kanel, natron
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 15
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 45
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Gammeldags krydderkage med kanel og nelliker.
+ingredients:
+  - list:
+      - amount: 250
+        unit: g
+        name: Sukker
+      - amount: 250
+        unit: g
+        name: Mel
+      - amount: 1
+        unit: stk
+        name: Æg
+      - amount: 3
+        unit: spsk
+        name: Smeltet margarine
+      - amount: 1
+        unit: dl
+        name: Mælk eller kærnemælk
+      - amount: 1
+        unit: tsk
+        name: Natron
+      - amount: 2-3
+        unit: tsk
+        name: Kanel
+      - amount: 1
+        unit: tsk
+        name: Nelliker
+instructions:
+  - list:
+      - Rør sukker, æg og smeltet margarine sammen.
+      - Bland mel, natron, kanel og nelliker, og rør det i skiftevis med mælken.
+      - Hæld dejen i en smurt form.
+      - Bag ved 175 °C, til kagen er gennembagt.
+---

@@ -1,0 +1,61 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Fransk frugtkage
+categories: [Kage, Frugt]
+course: Dessert
+cuisine: Fransk
+keyword: frugtkage, citron, chokolade
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 30
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Enkel frugtkage med citronskal og chokolade på toppen.
+ingredients:
+  - list:
+      - amount: 150
+        unit: g
+        name: Margarine
+      - amount: 200
+        unit: g
+        name: Mel
+      - amount: 200
+        unit: g
+        name: Sukker
+      - amount: 5
+        unit: stk
+        name: Æg
+      - amount: 5
+        unit: spsk
+        name: Mælk
+      - amount: 1½
+        unit: tsk
+        name: Bagepulver
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (skal og saft)
+      - amount: 1
+        unit: portion
+        name: Chokolade
+        notes: (til overtræk)
+instructions:
+  - list:
+      - Rør margarine og sukker sammen. Tilsæt æggene ét ad gangen.
+      - Bland mel og bagepulver, og vend det i dejen sammen med mælken og citronskal.
+      - Hæld dejen i en smurt randform, og bag ved 180 °C, til kagen er gennembagt.
+      - Lad kagen køle af, og pynt med smeltet chokolade.
+---

@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Brøstens små honningkager
+categories: [Kage, Honning, Jul]
+course: Dessert
+cuisine: Dansk
+keyword: honningkager, kanel, jul
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 30
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 12
+        unit: minutter
+servings:
+  - value: 1
+    unit: portion
+summary: Små krydrede honningkager, der dyppes i chokolade, når de er afkølede.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 500
+        unit: g
+        name: Honning
+      - amount: 125
+        unit: g
+        name: Margarine
+      - amount: 125
+        unit: g
+        name: Brun farin
+      - amount: 20
+        unit: g
+        name: Potaske
+        notes: (opløst i lidt vand)
+      - amount: 1
+        unit: spsk
+        name: Kanel
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (revet skal)
+      - amount: 2
+        unit: tsk
+        name: Hjortetaksalt
+      - amount: 625
+        unit: g
+        name: Mel
+  - group: Pynt
+    list:
+      - amount: 100
+        unit: g
+        name: Mørk chokolade
+instructions:
+  - list:
+      - Varm honning, margarine og farin forsigtigt sammen, og lad blandingen køle lidt af.
+      - Rør potaske, kanel, citronskal og hjortetaksalt i.
+      - Ælt melet i lidt ad gangen. Lad dejen hvile koldt, gerne til næste dag.
+      - Rul dejen ud, skær små kager ud, og bag dem ved 165 °C i 10-12 minutter.
+      - Lad kagerne køle helt af, og pynt dem med smeltet chokolade.
+---

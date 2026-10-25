@@ -1,0 +1,61 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Citronkage med marcipan og hvid chokolade
+categories: [Kage, Citron, Marcipan]
+course: Dessert
+cuisine: Dansk
+keyword: citron, marcipan, hvid chokolade
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Citronsød kage med marcipan og hvid chokolade.
+ingredients:
+  - list:
+      - amount: 40
+        unit: g
+        name: Smør
+      - amount: 100
+        unit: g
+        name: Marcipan
+      - amount: 3
+        unit: spsk
+        name: Sukker
+      - amount: 120
+        unit: g
+        name: Blød margarine
+      - amount: 160
+        unit: g
+        name: Mel
+      - amount: 1
+        unit: tsk
+        name: Bagepulver
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (saft og skal)
+      - amount: 100
+        unit: g
+        name: Hvid chokolade
+        notes: (hakket)
+instructions:
+  - list:
+      - Rør smør, margarine og sukker sammen.
+      - Riv marcipanen, og vend den i sammen med mel og bagepulver.
+      - Tilsæt citronsaft og -skal samt den hakkede hvide chokolade.
+      - Fordel dejen i en smurt form på cirka 20 x 25 cm, og bag ved 180 °C i 20-25 minutter.
+---

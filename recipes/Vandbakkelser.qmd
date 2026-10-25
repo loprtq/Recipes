@@ -1,0 +1,55 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Vandbakkelser
+categories: [Bagværk, Dessert]
+course: Dessert
+cuisine: Dansk
+keyword: vandbakkelser, flødeskum, kage
+difficulty: Medium
+time:
+  - group: Prep
+    list:
+      - value: 25
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 25
+        unit: minutter
+servings:
+  - value: 12
+    unit: stk
+summary: Luftige vandbakkelser fyldt med flødeskum.
+ingredients:
+  - list:
+      - amount: 2
+        unit: dl
+        name: Vand
+      - amount: 50
+        unit: g
+        name: Smør
+      - amount: 100
+        unit: g
+        name: Mel
+      - amount: ¼
+        unit: tsk
+        name: Salt
+      - amount: 2-3
+        unit: stk
+        name: Æg
+      - amount: 2
+        unit: dl
+        name: Piskefløde
+        notes: (til fyld)
+instructions:
+  - list:
+      - Bring vand og smør i kog. Tag gryden af varmen, og rør melet og saltet i på én gang.
+      - Rør kraftigt, til dejen slipper gryde og ske. Lad den køle lidt.
+      - Rør æggene i et ad gangen; dejen skal være blank og fast.
+      - Sæt dejen i små toppe på en bageplade. Bag ved 200 °C i cirka 25 minutter uden at åbne ovnen undervejs.
+      - Afkøl, og fyld med pisket fløde.
+---

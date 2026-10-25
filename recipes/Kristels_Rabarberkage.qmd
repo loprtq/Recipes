@@ -1,0 +1,59 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Kristels rabarberkage
+categories: [Kage, Rabarber]
+course: Dessert
+cuisine: Dansk
+keyword: rabarber, kage, cremefraiche
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 15
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 35
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Enkel rabarberkage med hakket rabarber og cremefraiche.
+ingredients:
+  - list:
+      - amount: 150
+        unit: g
+        name: Margarine
+      - amount: 125
+        unit: g
+        name: Sukker
+      - amount: 2
+        unit: stk
+        name: Æg
+      - amount: 125
+        unit: g
+        name: Mel
+      - amount: 1
+        unit: tsk
+        name: Bagepulver
+      - amount: 200
+        unit: g
+        name: Rabarber
+        notes: (finthakket)
+      - amount: 1
+        unit: portion
+        name: Cremefraiche
+        notes: (til servering)
+instructions:
+  - list:
+      - Rør margarine og sukker sammen, og tilsæt æggene.
+      - Vend mel og bagepulver i dejen.
+      - Vend rabarberstykkerne i lidt mel, og rør dem i dejen.
+      - Fordel dejen i en rund form, og bag ved 185 °C i cirka 35 minutter.
+      - Servér kagen med cremefraiche.
+---

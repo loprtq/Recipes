@@ -1,0 +1,70 @@
+---
+format:
+  html:
+    theme: none
+    template: ../template/index.html
+    css: ../template/index.css
+
+title: Appelsinkage
+categories: [Kage, Citrus]
+course: Dessert
+cuisine: Dansk
+keyword: appelsin, kage, citrus
+difficulty: Nem
+time:
+  - group: Prep
+    list:
+      - value: 20
+        unit: minutter
+  - group: Cook
+    list:
+      - value: 40
+        unit: minutter
+servings:
+  - value: 1
+    unit: kage
+summary: Appelsinkage med frisk appelsinsaft og revet citrusskal.
+ingredients:
+  - group: Dej
+    list:
+      - amount: 125
+        unit: g
+        name: Sukker
+      - amount: 150
+        unit: g
+        name: Margarine
+      - amount: 3
+        unit: stk
+        name: Æg
+      - amount: 225
+        unit: g
+        name: Mel
+      - amount: 3
+        unit: tsk
+        name: Bagepulver
+      - amount: 1
+        unit: stk
+        name: Citron
+        notes: (revet skal)
+      - amount: 2
+        unit: stk
+        name: Appelsiner
+        notes: (revet skal)
+      - amount: 1
+        unit: dl
+        name: Appelsinsaft
+  - group: Glasur
+    list:
+      - amount: 1
+        unit: dl
+        name: Sukker
+      - amount: 2
+        unit: dl
+        name: Appelsin- og citronsaft
+instructions:
+  - list:
+      - Pisk sukker og margarine sammen, og pisk æggene i ét ad gangen.
+      - Rør mel og bagepulver i sammen med citrusskaller og appelsinsaft.
+      - Hæld dejen i en smurt randform, og bag ved 180 °C, til kagen er gennembagt.
+      - Varm sukker og saft sammen til en sirup. Hæld den over den lune kage, og lad den trække.
+---
